@@ -69,7 +69,7 @@ header button:hover {
     text-align: center;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
     /* Countires */
     .countries form {
         width: 90%;
@@ -91,7 +91,7 @@ header button:hover {
 }
 
 /* Tablet */
-@media (min-width: 768px) and (max-width: 1199px) {
+@media (min-width: 769px) and (max-width: 1199px) {
     /* Countires */
     .countries .country {
         width: 45%;
